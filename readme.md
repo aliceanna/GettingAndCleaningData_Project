@@ -1,6 +1,6 @@
 
-This folder contains 
-the dataset,
+This folder contains: 
+original dataset,
 codebook.md
 run_analysis.R
 tidyData.txt
